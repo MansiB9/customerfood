@@ -1,0 +1,15 @@
+.place{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    margin:auto;
+    margin-top: 25px;
+  }
+  .place .plcimg{
+      height: 260px;
+      border-radius: 7px;
+  }
+  .place .plcimg{
+    padding: 5px;
+    height: 100%;
+    width: 100%;
+    border-radius: 17px;
+  }

@@ -1,0 +1,27 @@
+.backimg{
+   background-image: url("./Images/Register.png"); 
+   background-repeat: no-repeat;
+   background-size: cover;
+   margin-left: 100px;
+   margin-right: 100px;
+   height: 700px;
+}
+.form-div{
+position: absolute;
+width: 670px;
+height: 894px;
+left: 700px;
+top: 150px;
+bottom: 200px;
+padding: 16px;
+
+}
+
+.glass{
+   background: transparent;
+box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+backdrop-filter: blur( 5px );
+-webkit-backdrop-filter: blur( 5px );
+text-decoration: none !important;
+}
+
